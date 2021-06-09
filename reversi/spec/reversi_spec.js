@@ -1,4 +1,4 @@
-describe("Piece", function () {
+xdescribe("Piece", function () {
   let darkPiece,
     lightPiece;
 
